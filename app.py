@@ -2,10 +2,11 @@
 """
 
 """
-
+import flask
+import os
+from random import randint
 import pandas as pd
 import plotly.express as px
-import plotly.offline as po
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
@@ -14,10 +15,13 @@ import time
 from datetime import datetime
 
 
-app = dash.Dash()
-server = app.server
-
-
+# Setup the app
+# Make sure not to change this file name or the variable names below,
+# the template is configured to execute 'server' on 'app.py'
+server = flask.Flask(__name__)
+server.secret_key = os.environ.get('secret_key', str(randint(0, 1000000)))
+app = dash.Dash(__name__, server=server)
+# Put your Dash code here
 
 #read in saved data and merge
 df=pd.read_csv('https://raw.githubusercontent.com/nmrittweger/covid-19/master/data.csv')
@@ -75,7 +79,6 @@ def getMarks(start, end, Nth):
 marks=getMarks(daterange.min(),daterange.max(),2)
 
 
-#TESTING Section ***********************************************************************************************
 
 #LAYOUT**************************************************************************************************
 app.layout = html.Div(dcc.Tabs(id="tabs", children=[
@@ -193,7 +196,6 @@ def global_view(g_region,g_type,g_date):
     return fig
 
 
-
+# Run the Dash app
 if __name__ == '__main__':
-    #app.run_server(host='0.0.0.0', port=8049)
-    app.run_server(debug=False, threaded=True)
+    app.server.run(debug=True, threaded=True)
