@@ -1,98 +1,98 @@
 ,Country,C_Clean,alpha-3,name,alpha-2,country-code,iso_3166-2,region,sub-region,intermediate-region,region-code,sub-region-code,intermediate-region-code
 0,US,US,USA,United States of America,US,840,ISO 3166-2:US,Americas,Northern America,,19.0,21.0,
 1,Canada,Canada,CAN,Canada,CA,124,ISO 3166-2:CA,Americas,Northern America,,19.0,21.0,
-2,Mainland China,China,CHN,China,CN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142.0,30.0,
-3,Others,Japan,JPN,Japan,JP,392,ISO 3166-2:JP,Asia,Eastern Asia,,142.0,30.0,
-4,Australia,Australia,AUS,Australia,AU,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9.0,53.0,
-5,Hong Kong SAR,Hong Kong SAR,CHN,China,CN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142.0,30.0,
-6,Macao SAR,Macao SAR,CHN,China,CN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142.0,30.0,
-7,Afghanistan,Afghanistan,AFG,Afghanistan,AF,4,ISO 3166-2:AF,Asia,Southern Asia,,142.0,34.0,
-8,Albania,Albania,ALB,Albania,AL,8,ISO 3166-2:AL,Europe,Southern Europe,,150.0,39.0,
-9,Algeria,Algeria,DZA,Algeria,DZ,12,ISO 3166-2:DZ,Africa,Northern Africa,,2.0,15.0,
-10,Andorra,Andorra,AND,Andorra,AD,20,ISO 3166-2:AD,Europe,Southern Europe,,150.0,39.0,
-11,Argentina,Argentina,ARG,Argentina,AR,32,ISO 3166-2:AR,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
-12,Armenia,Armenia,ARM,Armenia,AM,51,ISO 3166-2:AM,Asia,Western Asia,,142.0,145.0,
-13,Austria,Austria,AUT,Austria,AT,40,ISO 3166-2:AT,Europe,Western Europe,,150.0,155.0,
-14,Azerbaijan,Azerbaijan,AZE,Azerbaijan,AZ,31,ISO 3166-2:AZ,Asia,Western Asia,,142.0,145.0,
-15,Bahrain,Bahrain,BHR,Bahrain,BH,48,ISO 3166-2:BH,Asia,Western Asia,,142.0,145.0,
-16,Bangladesh,Bangladesh,BGD,Bangladesh,BD,50,ISO 3166-2:BD,Asia,Southern Asia,,142.0,34.0,
-17,Belarus,Belarus,BLR,Belarus,BY,112,ISO 3166-2:BY,Europe,Eastern Europe,,150.0,151.0,
-18,Belgium,Belgium,BEL,Belgium,BE,56,ISO 3166-2:BE,Europe,Western Europe,,150.0,155.0,
-19,Bhutan,Bhutan,BTN,Bhutan,BT,64,ISO 3166-2:BT,Asia,Southern Asia,,142.0,34.0,
-20,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,BA,70,ISO 3166-2:BA,Europe,Southern Europe,,150.0,39.0,
-21,Brazil,Brazil,BRA,Brazil,BR,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
-22,Brunei,Brunei,BRN,Brunei Darussalam,BN,96,ISO 3166-2:BN,Asia,South-eastern Asia,,142.0,35.0,
-23,Bulgaria,Bulgaria,BGR,Bulgaria,BG,100,ISO 3166-2:BG,Europe,Eastern Europe,,150.0,151.0,
-24,Burkina Faso,Burkina Faso,BFA,Burkina Faso,BF,854,ISO 3166-2:BF,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
-25,Cambodia,Cambodia,KHM,Cambodia,KH,116,ISO 3166-2:KH,Asia,South-eastern Asia,,142.0,35.0,
-26,Cameroon,Cameroon,CMR,Cameroon,CM,120,ISO 3166-2:CM,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0
-27,Channel Islands,United Kingdom,GBR,United Kingdom of Great Britain and Northern Ireland,GB,826,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-28,Chile,Chile,CHL,Chile,CL,152,ISO 3166-2:CL,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
-29,Colombia,Colombia,COL,Colombia,CO,170,ISO 3166-2:CO,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
-30,Costa Rica,Costa Rica,CRI,Costa Rica,CR,188,ISO 3166-2:CR,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
-31,Croatia,Croatia,HRV,Croatia,HR,191,ISO 3166-2:HR,Europe,Southern Europe,,150.0,39.0,
-32,Cyprus,Cyprus,CYP,Cyprus,CY,196,ISO 3166-2:CY,Asia,Western Asia,,142.0,145.0,
-33,Czech Republic,Czech Republic,CZE,Czechia,CZ,203,ISO 3166-2:CZ,Europe,Eastern Europe,,150.0,151.0,
-34,Denmark,Denmark,DNK,Denmark,DK,208,ISO 3166-2:DK,Europe,Northern Europe,,150.0,154.0,
-35,Dominican Republic,Dominican Republic,DOM,Dominican Republic,DO,214,ISO 3166-2:DO,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
-36,Ecuador,Ecuador,ECU,Ecuador,EC,218,ISO 3166-2:EC,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
-37,Egypt,Egypt,EGY,Egypt,EG,818,ISO 3166-2:EG,Africa,Northern Africa,,2.0,15.0,
-38,Estonia,Estonia,EST,Estonia,EE,233,ISO 3166-2:EE,Europe,Northern Europe,,150.0,154.0,
-39,Faroe Islands,Faroe Islands,FRO,Faroe Islands,FO,234,ISO 3166-2:FO,Europe,Northern Europe,,150.0,154.0,
-40,Finland,Finland,FIN,Finland,FI,246,ISO 3166-2:FI,Europe,Northern Europe,,150.0,154.0,
-41,France,France,FRA,France,FR,250,ISO 3166-2:FR,Europe,Western Europe,,150.0,155.0,
+2,China,China,CHN,China,CN,156,ISO 3166-2:CN,Asia,Eastern Asia,,142.0,30.0,
+3,United Kingdom,United Kingdom,GBR,United Kingdom of Great Britain and Northern Ireland,GB,826,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
+4,Denmark,Denmark,DNK,Denmark,DK,208,ISO 3166-2:DK,Europe,Northern Europe,,150.0,154.0,
+5,Cruise Ship,Japan,JPN,Japan,JP,392,ISO 3166-2:JP,Asia,Eastern Asia,,142.0,30.0,
+6,France,France,FRA,France,FR,250,ISO 3166-2:FR,Europe,Western Europe,,150.0,155.0,
+7,Australia,Australia,AUS,Australia,AU,36,ISO 3166-2:AU,Oceania,Australia and New Zealand,,9.0,53.0,
+8,Afghanistan,Afghanistan,AFG,Afghanistan,AF,4,ISO 3166-2:AF,Asia,Southern Asia,,142.0,34.0,
+9,Albania,Albania,ALB,Albania,AL,8,ISO 3166-2:AL,Europe,Southern Europe,,150.0,39.0,
+10,Algeria,Algeria,DZA,Algeria,DZ,12,ISO 3166-2:DZ,Africa,Northern Africa,,2.0,15.0,
+11,Andorra,Andorra,AND,Andorra,AD,20,ISO 3166-2:AD,Europe,Southern Europe,,150.0,39.0,
+12,Argentina,Argentina,ARG,Argentina,AR,32,ISO 3166-2:AR,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+13,Armenia,Armenia,ARM,Armenia,AM,51,ISO 3166-2:AM,Asia,Western Asia,,142.0,145.0,
+14,Austria,Austria,AUT,Austria,AT,40,ISO 3166-2:AT,Europe,Western Europe,,150.0,155.0,
+15,Azerbaijan,Azerbaijan,AZE,Azerbaijan,AZ,31,ISO 3166-2:AZ,Asia,Western Asia,,142.0,145.0,
+16,Bahrain,Bahrain,BHR,Bahrain,BH,48,ISO 3166-2:BH,Asia,Western Asia,,142.0,145.0,
+17,Bangladesh,Bangladesh,BGD,Bangladesh,BD,50,ISO 3166-2:BD,Asia,Southern Asia,,142.0,34.0,
+18,Belarus,Belarus,BLR,Belarus,BY,112,ISO 3166-2:BY,Europe,Eastern Europe,,150.0,151.0,
+19,Belgium,Belgium,BEL,Belgium,BE,56,ISO 3166-2:BE,Europe,Western Europe,,150.0,155.0,
+20,Bhutan,Bhutan,BTN,Bhutan,BT,64,ISO 3166-2:BT,Asia,Southern Asia,,142.0,34.0,
+21,Bolivia,Bolivia,BOL,Bolivia (Plurinational State of),BO,68,ISO 3166-2:BO,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+22,Bosnia and Herzegovina,Bosnia and Herzegovina,BIH,Bosnia and Herzegovina,BA,70,ISO 3166-2:BA,Europe,Southern Europe,,150.0,39.0,
+23,Brazil,Brazil,BRA,Brazil,BR,76,ISO 3166-2:BR,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+24,Brunei,Brunei,BRN,Brunei Darussalam,BN,96,ISO 3166-2:BN,Asia,South-eastern Asia,,142.0,35.0,
+25,Bulgaria,Bulgaria,BGR,Bulgaria,BG,100,ISO 3166-2:BG,Europe,Eastern Europe,,150.0,151.0,
+26,Burkina Faso,Burkina Faso,BFA,Burkina Faso,BF,854,ISO 3166-2:BF,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
+27,Cambodia,Cambodia,KHM,Cambodia,KH,116,ISO 3166-2:KH,Asia,South-eastern Asia,,142.0,35.0,
+28,Cameroon,Cameroon,CMR,Cameroon,CM,120,ISO 3166-2:CM,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0
+29,Chile,Chile,CHL,Chile,CL,152,ISO 3166-2:CL,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+30,Colombia,Colombia,COL,Colombia,CO,170,ISO 3166-2:CO,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+31,Congo (Kinshasa),Congo,COG,Congo,CG,178,ISO 3166-2:CG,Africa,Sub-Saharan Africa,Middle Africa,2.0,202.0,17.0
+32,Costa Rica,Costa Rica,CRI,Costa Rica,CR,188,ISO 3166-2:CR,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
+33,Cote d'Ivoire,Cote d'Ivoire,CIV,Côte d'Ivoire,CI,384,ISO 3166-2:CI,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
+34,Croatia,Croatia,HRV,Croatia,HR,191,ISO 3166-2:HR,Europe,Southern Europe,,150.0,39.0,
+35,Cyprus,Cyprus,CYP,Cyprus,CY,196,ISO 3166-2:CY,Asia,Western Asia,,142.0,145.0,
+36,Czechia,Czechia,CZE,Czechia,CZ,203,ISO 3166-2:CZ,Europe,Eastern Europe,,150.0,151.0,
+37,Dominican Republic,Dominican Republic,DOM,Dominican Republic,DO,214,ISO 3166-2:DO,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
+38,Ecuador,Ecuador,ECU,Ecuador,EC,218,ISO 3166-2:EC,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+39,Egypt,Egypt,EGY,Egypt,EG,818,ISO 3166-2:EG,Africa,Northern Africa,,2.0,15.0,
+40,Estonia,Estonia,EST,Estonia,EE,233,ISO 3166-2:EE,Europe,Northern Europe,,150.0,154.0,
+41,Finland,Finland,FIN,Finland,FI,246,ISO 3166-2:FI,Europe,Northern Europe,,150.0,154.0,
 42,French Guiana,French Guiana,GUF,French Guiana,GF,254,ISO 3166-2:GF,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
 43,Georgia,Georgia,GEO,Georgia,GE,268,ISO 3166-2:GE,Asia,Western Asia,,142.0,145.0,
 44,Germany,Germany,DEU,Germany,DE,276,ISO 3166-2:DE,Europe,Western Europe,,150.0,155.0,
-45,Gibraltar,Gibraltar,GIB,Gibraltar,GI,292,ISO 3166-2:GI,Europe,Southern Europe,,150.0,39.0,
-46,Greece,Greece,GRC,Greece,GR,300,ISO 3166-2:GR,Europe,Southern Europe,,150.0,39.0,
-47,Holy See,Holy See,VAT,Holy See,VA,336,ISO 3166-2:VA,Europe,Southern Europe,,150.0,39.0,
+45,Greece,Greece,GRC,Greece,GR,300,ISO 3166-2:GR,Europe,Southern Europe,,150.0,39.0,
+46,Holy See,Holy See,VAT,Holy See,VA,336,ISO 3166-2:VA,Europe,Southern Europe,,150.0,39.0,
+47,Honduras,Honduras,HND,Honduras,HN,340,ISO 3166-2:HN,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
 48,Hungary,Hungary,HUN,Hungary,HU,348,ISO 3166-2:HU,Europe,Eastern Europe,,150.0,151.0,
 49,Iceland,Iceland,ISL,Iceland,IS,352,ISO 3166-2:IS,Europe,Northern Europe,,150.0,154.0,
 50,India,India,IND,India,IN,356,ISO 3166-2:IN,Asia,Southern Asia,,142.0,34.0,
 51,Indonesia,Indonesia,IDN,Indonesia,ID,360,ISO 3166-2:ID,Asia,South-eastern Asia,,142.0,35.0,
-52,Iran (Islamic Republic of),Iran,IRN,Iran (Islamic Republic of),IR,364,ISO 3166-2:IR,Asia,Southern Asia,,142.0,34.0,
+52,Iran,Iran,IRN,Iran (Islamic Republic of),IR,364,ISO 3166-2:IR,Asia,Southern Asia,,142.0,34.0,
 53,Iraq,Iraq,IRQ,Iraq,IQ,368,ISO 3166-2:IQ,Asia,Western Asia,,142.0,145.0,
 54,Ireland,Ireland,IRL,Ireland,IE,372,ISO 3166-2:IE,Europe,Northern Europe,,150.0,154.0,
 55,Israel,Israel,ISR,Israel,IL,376,ISO 3166-2:IL,Asia,Western Asia,,142.0,145.0,
 56,Italy,Italy,ITA,Italy,IT,380,ISO 3166-2:IT,Europe,Southern Europe,,150.0,39.0,
-57,Japan,Japan,JPN,Japan,JP,392,ISO 3166-2:JP,Asia,Eastern Asia,,142.0,30.0,
-58,Jordan,Jordan,JOR,Jordan,JO,400,ISO 3166-2:JO,Asia,Western Asia,,142.0,145.0,
-59,Kuwait,Kuwait,KWT,Kuwait,KW,414,ISO 3166-2:KW,Asia,Western Asia,,142.0,145.0,
-60,Latvia,Latvia,LVA,Latvia,LV,428,ISO 3166-2:LV,Europe,Northern Europe,,150.0,154.0,
-61,Lebanon,Lebanon,LBN,Lebanon,LB,422,ISO 3166-2:LB,Asia,Western Asia,,142.0,145.0,
-62,Liechtenstein,Liechtenstein,LIE,Liechtenstein,LI,438,ISO 3166-2:LI,Europe,Western Europe,,150.0,155.0,
-63,Lithuania,Lithuania,LTU,Lithuania,LT,440,ISO 3166-2:LT,Europe,Northern Europe,,150.0,154.0,
-64,Luxembourg,Luxembourg,LUX,Luxembourg,LU,442,ISO 3166-2:LU,Europe,Western Europe,,150.0,155.0,
-65,Malaysia,Malaysia,MYS,Malaysia,MY,458,ISO 3166-2:MY,Asia,South-eastern Asia,,142.0,35.0,
-66,Maldives,Maldives,MDV,Maldives,MV,462,ISO 3166-2:MV,Asia,Southern Asia,,142.0,34.0,
-67,Malta,Malta,MLT,Malta,MT,470,ISO 3166-2:MT,Europe,Southern Europe,,150.0,39.0,
-68,Martinique,Martinique,MTQ,Martinique,MQ,474,ISO 3166-2:MQ,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
-69,Mexico,Mexico,MEX,Mexico,MX,484,ISO 3166-2:MX,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
-70,Monaco,Monaco,MCO,Monaco,MC,492,ISO 3166-2:MC,Europe,Western Europe,,150.0,155.0,
-71,Mongolia,Mongolia,MNG,Mongolia,MN,496,ISO 3166-2:MN,Asia,Eastern Asia,,142.0,30.0,
-72,Morocco,Morocco,MAR,Morocco,MA,504,ISO 3166-2:MA,Africa,Northern Africa,,2.0,15.0,
-73,Nepal,Nepal,NPL,Nepal,NP,524,ISO 3166-2:NP,Asia,Southern Asia,,142.0,34.0,
-74,Netherlands,Netherlands,NLD,Netherlands,NL,528,ISO 3166-2:NL,Europe,Western Europe,,150.0,155.0,
-75,New Zealand,New Zealand,NZL,New Zealand,NZ,554,ISO 3166-2:NZ,Oceania,Australia and New Zealand,,9.0,53.0,
-76,Nigeria,Nigeria,NGA,Nigeria,NG,566,ISO 3166-2:NG,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
-77,North Macedonia,North Macedonia,MKD,North Macedonia,MK,807,ISO 3166-2:MK,Europe,Southern Europe,,150.0,39.0,
-78,Norway,Norway,NOR,Norway,NO,578,ISO 3166-2:NO,Europe,Northern Europe,,150.0,154.0,
-79,Oman,Oman,OMN,Oman,OM,512,ISO 3166-2:OM,Asia,Western Asia,,142.0,145.0,
-80,Pakistan,Pakistan,PAK,Pakistan,PK,586,ISO 3166-2:PK,Asia,Southern Asia,,142.0,34.0,
-81,Panama,Panama,PAN,Panama,PA,591,ISO 3166-2:PA,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
-82,Paraguay,Paraguay,PRY,Paraguay,PY,600,ISO 3166-2:PY,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
-83,Peru,Peru,PER,Peru,PE,604,ISO 3166-2:PE,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
-84,Philippines,Philippines,PHL,Philippines,PH,608,ISO 3166-2:PH,Asia,South-eastern Asia,,142.0,35.0,
-85,Poland,Poland,POL,Poland,PL,616,ISO 3166-2:PL,Europe,Eastern Europe,,150.0,151.0,
-86,Portugal,Portugal,PRT,Portugal,PT,620,ISO 3166-2:PT,Europe,Southern Europe,,150.0,39.0,
-87,Qatar,Qatar,QAT,Qatar,QA,634,ISO 3166-2:QA,Asia,Western Asia,,142.0,145.0,
-88,Republic of Korea,Republic of Korea,PRK,Korea (Democratic People's Republic of),KP,408,ISO 3166-2:KP,Asia,Eastern Asia,,142.0,30.0,
-89,Republic of Moldova,Republic of Moldova,MDA,"Moldova, Republic of",MD,498,ISO 3166-2:MD,Europe,Eastern Europe,,150.0,151.0,
-90,Romania,Romania,ROU,Romania,RO,642,ISO 3166-2:RO,Europe,Eastern Europe,,150.0,151.0,
-91,Russian Federation,Russian Federation,RUS,Russian Federation,RU,643,ISO 3166-2:RU,Europe,Eastern Europe,,150.0,151.0,
-92,Saint Barthelemy,Saint Barthelemy,BLM,Saint Barthélemy,BL,652,ISO 3166-2:BL,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
-93,Saint Martin,Saint Martin,MAF,Saint Martin (French part),MF,663,ISO 3166-2:MF,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
+57,Jamaica,Jamaica,JAM,Jamaica,JM,388,ISO 3166-2:JM,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
+58,Japan,Japan,JPN,Japan,JP,392,ISO 3166-2:JP,Asia,Eastern Asia,,142.0,30.0,
+59,Jordan,Jordan,JOR,Jordan,JO,400,ISO 3166-2:JO,Asia,Western Asia,,142.0,145.0,
+60,"Korea, South",Korea,PRK,Korea (Democratic People's Republic of),KP,408,ISO 3166-2:KP,Asia,Eastern Asia,,142.0,30.0,
+61,Kuwait,Kuwait,KWT,Kuwait,KW,414,ISO 3166-2:KW,Asia,Western Asia,,142.0,145.0,
+62,Latvia,Latvia,LVA,Latvia,LV,428,ISO 3166-2:LV,Europe,Northern Europe,,150.0,154.0,
+63,Lebanon,Lebanon,LBN,Lebanon,LB,422,ISO 3166-2:LB,Asia,Western Asia,,142.0,145.0,
+64,Liechtenstein,Liechtenstein,LIE,Liechtenstein,LI,438,ISO 3166-2:LI,Europe,Western Europe,,150.0,155.0,
+65,Lithuania,Lithuania,LTU,Lithuania,LT,440,ISO 3166-2:LT,Europe,Northern Europe,,150.0,154.0,
+66,Luxembourg,Luxembourg,LUX,Luxembourg,LU,442,ISO 3166-2:LU,Europe,Western Europe,,150.0,155.0,
+67,Malaysia,Malaysia,MYS,Malaysia,MY,458,ISO 3166-2:MY,Asia,South-eastern Asia,,142.0,35.0,
+68,Maldives,Maldives,MDV,Maldives,MV,462,ISO 3166-2:MV,Asia,Southern Asia,,142.0,34.0,
+69,Malta,Malta,MLT,Malta,MT,470,ISO 3166-2:MT,Europe,Southern Europe,,150.0,39.0,
+70,Martinique,Martinique,MTQ,Martinique,MQ,474,ISO 3166-2:MQ,Americas,Latin America and the Caribbean,Caribbean,19.0,419.0,29.0
+71,Mexico,Mexico,MEX,Mexico,MX,484,ISO 3166-2:MX,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
+72,Moldova,Moldova,MDA,"Moldova, Republic of",MD,498,ISO 3166-2:MD,Europe,Eastern Europe,,150.0,151.0,
+73,Monaco,Monaco,MCO,Monaco,MC,492,ISO 3166-2:MC,Europe,Western Europe,,150.0,155.0,
+74,Mongolia,Mongolia,MNG,Mongolia,MN,496,ISO 3166-2:MN,Asia,Eastern Asia,,142.0,30.0,
+75,Morocco,Morocco,MAR,Morocco,MA,504,ISO 3166-2:MA,Africa,Northern Africa,,2.0,15.0,
+76,Nepal,Nepal,NPL,Nepal,NP,524,ISO 3166-2:NP,Asia,Southern Asia,,142.0,34.0,
+77,Netherlands,Netherlands,NLD,Netherlands,NL,528,ISO 3166-2:NL,Europe,Western Europe,,150.0,155.0,
+78,New Zealand,New Zealand,NZL,New Zealand,NZ,554,ISO 3166-2:NZ,Oceania,Australia and New Zealand,,9.0,53.0,
+79,Nigeria,Nigeria,NGA,Nigeria,NG,566,ISO 3166-2:NG,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
+80,North Macedonia,North Macedonia,MKD,North Macedonia,MK,807,ISO 3166-2:MK,Europe,Southern Europe,,150.0,39.0,
+81,Norway,Norway,NOR,Norway,NO,578,ISO 3166-2:NO,Europe,Northern Europe,,150.0,154.0,
+82,Oman,Oman,OMN,Oman,OM,512,ISO 3166-2:OM,Asia,Western Asia,,142.0,145.0,
+83,Pakistan,Pakistan,PAK,Pakistan,PK,586,ISO 3166-2:PK,Asia,Southern Asia,,142.0,34.0,
+84,Panama,Panama,PAN,Panama,PA,591,ISO 3166-2:PA,Americas,Latin America and the Caribbean,Central America,19.0,419.0,13.0
+85,Paraguay,Paraguay,PRY,Paraguay,PY,600,ISO 3166-2:PY,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+86,Peru,Peru,PER,Peru,PE,604,ISO 3166-2:PE,Americas,Latin America and the Caribbean,South America,19.0,419.0,5.0
+87,Philippines,Philippines,PHL,Philippines,PH,608,ISO 3166-2:PH,Asia,South-eastern Asia,,142.0,35.0,
+88,Poland,Poland,POL,Poland,PL,616,ISO 3166-2:PL,Europe,Eastern Europe,,150.0,151.0,
+89,Portugal,Portugal,PRT,Portugal,PT,620,ISO 3166-2:PT,Europe,Southern Europe,,150.0,39.0,
+90,Qatar,Qatar,QAT,Qatar,QA,634,ISO 3166-2:QA,Asia,Western Asia,,142.0,145.0,
+91,Reunion,Reunion,REU,Réunion,RE,638,ISO 3166-2:RE,Africa,Sub-Saharan Africa,Eastern Africa,2.0,202.0,14.0
+92,Romania,Romania,ROU,Romania,RO,642,ISO 3166-2:RO,Europe,Eastern Europe,,150.0,151.0,
+93,Russia,Russia,RUS,Russian Federation,RU,643,ISO 3166-2:RU,Europe,Eastern Europe,,150.0,151.0,
 94,San Marino,San Marino,SMR,San Marino,SM,674,ISO 3166-2:SM,Europe,Southern Europe,,150.0,39.0,
 95,Saudi Arabia,Saudi Arabia,SAU,Saudi Arabia,SA,682,ISO 3166-2:SA,Asia,Western Asia,,142.0,145.0,
 96,Senegal,Senegal,SEN,Senegal,SN,686,ISO 3166-2:SN,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
@@ -105,12 +105,11 @@
 103,Sri Lanka,Sri Lanka,LKA,Sri Lanka,LK,144,ISO 3166-2:LK,Asia,Southern Asia,,142.0,34.0,
 104,Sweden,Sweden,SWE,Sweden,SE,752,ISO 3166-2:SE,Europe,Northern Europe,,150.0,154.0,
 105,Switzerland,Switzerland,CHE,Switzerland,CH,756,ISO 3166-2:CH,Europe,Western Europe,,150.0,155.0,
-106,Thailand,Thailand,THA,Thailand,TH,764,ISO 3166-2:TH,Asia,South-eastern Asia,,142.0,35.0,
-107,Togo,Togo,TGO,Togo,TG,768,ISO 3166-2:TG,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
-108,Tunisia,Tunisia,TUN,Tunisia,TN,788,ISO 3166-2:TN,Africa,Northern Africa,,2.0,15.0,
-109,UK,United Kingdom,GBR,United Kingdom of Great Britain and Northern Ireland,GB,826,ISO 3166-2:GB,Europe,Northern Europe,,150.0,154.0,
-110,Ukraine,Ukraine,UKR,Ukraine,UA,804,ISO 3166-2:UA,Europe,Eastern Europe,,150.0,151.0,
-111,United Arab Emirates,United Arab Emirates,ARE,United Arab Emirates,AE,784,ISO 3166-2:AE,Asia,Western Asia,,142.0,145.0,
-112,Viet Nam,Viet Nam,VNM,Viet Nam,VN,704,ISO 3166-2:VN,Asia,South-eastern Asia,,142.0,35.0,
-113,occupied Palestinian territory,Palestine,PSE,"Palestine, State of",PS,275,ISO 3166-2:PS,Asia,Western Asia,,142.0,145.0,
-114,Taipei and environs,Taiwan,TWN,"Taiwan, Province of China",TW,158,ISO 3166-2:TW,Asia,Eastern Asia,,142.0,30.0,
+106,Taiwan*,Taiwan,TWN,"Taiwan, Province of China",TW,158,ISO 3166-2:TW,Asia,Eastern Asia,,142.0,30.0,
+107,Thailand,Thailand,THA,Thailand,TH,764,ISO 3166-2:TH,Asia,South-eastern Asia,,142.0,35.0,
+108,Togo,Togo,TGO,Togo,TG,768,ISO 3166-2:TG,Africa,Sub-Saharan Africa,Western Africa,2.0,202.0,11.0
+109,Tunisia,Tunisia,TUN,Tunisia,TN,788,ISO 3166-2:TN,Africa,Northern Africa,,2.0,15.0,
+110,Turkey,Turkey,TUR,Turkey,TR,792,ISO 3166-2:TR,Asia,Western Asia,,142.0,145.0,
+111,Ukraine,Ukraine,UKR,Ukraine,UA,804,ISO 3166-2:UA,Europe,Eastern Europe,,150.0,151.0,
+112,United Arab Emirates,United Arab Emirates,ARE,United Arab Emirates,AE,784,ISO 3166-2:AE,Asia,Western Asia,,142.0,145.0,
+113,Vietnam,Vietnam,VNM,Viet Nam,VN,704,ISO 3166-2:VN,Asia,South-eastern Asia,,142.0,35.0,
